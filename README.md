@@ -1,5 +1,5 @@
 # PLPBasicGitAssignment
-git init to initialise the Git repository in the local folder
+git init to initialise the Git repository in the local folder<br>
 git remote add origin https://github.com/4Ritaa/PLPBasicGitAssignment.git to link my local repository with GitHub
 git add .
 git commit -m "Commit message'
